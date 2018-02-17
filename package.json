@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaK4/Portfolio.git"
+  },
+  "author": "Jessica Kemen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessicaK4/Portfolio/issues"
+  },
+  "homepage": "https://github.com/JessicaK4/Portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "font-awesome": "^4.7.0",
+    "hbs": "^4.0.1",
+    "mongoose": "^5.0.6",
+    "serve-favicon": "^2.4.5"
+  }
+}
