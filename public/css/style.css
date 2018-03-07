@@ -1,0 +1,47 @@
+.navbar-dark{
+  background-color: black !important;
+}
+.fa{
+  font-size: 20px;
+}
+footer{
+  display: block;
+  position:absolute;
+  bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  background-color: black;
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: white;
+  list-style-type: none;
+  }
+footer ul{
+  list-style-type: none;
+  padding: 0px 0px;
+}
+footer .fa{
+  color: white;
+}
+.fa:hover{
+  color: white;
+}
+.fancyfont{
+    font-family: "Cookie" !important;
+    font-size: 30px;
+}
+
+#myname{
+  font-size: 50px;
+}
+#visualportfolio{
+  font-size: 37px;
+}
+
+.stayintouch{
+  font-size: 26px;
+}
+.aboutthissite{
+  font-size: 26px;
+}
